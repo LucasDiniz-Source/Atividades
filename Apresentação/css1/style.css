@@ -1,0 +1,125 @@
+* {
+    background-color: black;
+    color: #999999;
+    alignment: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center ;
+}
+body   {
+    background-color: #0c5460;
+}
+.logo{
+    height:25px ;
+    width:37.5px;
+}
+.texteME {
+    margin: 15px;
+}.lucas{
+    margin: 15px;
+    height: 798px ;
+    width:500px;
+    border-radius: 15px;
+}
+.div1{
+    display: flex;
+margin-left: 20%;
+    margin-right: 13%;
+}.div2{
+     display: flex;
+     margin: 50px;
+ }
+.meme{
+    padding: 15px;
+    height: 350px ;
+    width:350px;
+}
+button{
+   margin: 10px;
+}
+.line1 {
+    border-top: 3px solid #000000;
+    width: 200px;
+}
+.line2 {
+float: outside;
+    border-top: 3px solid #000000;
+    width: 150px;
+}
+a{
+    padding: 5px;
+}
+.am{
+    background-color: black;
+    padding: 10px;
+    margin: 50px
+}
+.back {
+    margin: 15px;
+}
+.skillbar {
+    position: relative;
+    display: block;
+    margin-bottom: 15px;
+    width: 100%;
+    background: grey;
+    height: 35px;
+    border-radius: 3px;
+    -webkit-transition: 0.4s linear;
+    -moz-transition: 0.4s linear;
+    -ms-transition: 0.4s linear;
+    -o-transition: 0.4s linear;
+    transition: 0.4s linear;
+    -webkit-transition-property: width, background-color;
+    -moz-transition-property: width, background-color;
+    -ms-transition-property: width, background-color;
+    -o-transition-property: width, background-color;
+    transition-property: width, background-color;
+}
+
+.skillbar-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: bold;
+    color: #773333;
+    font-family: 'Baskervile', Courier;
+    background: #6adcfa;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.skillbar-title span {
+    display: block;
+    background: #ffffff;
+    padding: 0 20px;
+    height: 35px;
+    line-height: 35px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.skillbar-bar {
+    height: 35px;
+    width: 0px;
+    background: #6adcfa;
+    border-radius: 3px;
+}
+
+.skill-bar-percent {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    font-size: 15px;
+    height: 35px;
+    line-height: 35px;
+    color: #ffffff;
+}
+.sites{
+    margin: 15px;
+    padding: 15px;
+}
+a{
+ color: bisque;
+    text-decoration:double;
+}
